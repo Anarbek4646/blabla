@@ -155,7 +155,7 @@
 }
 .position7 {
     color: rgb(10, 10, 10);
-    font-size: 40px;
+    font-size: 400px;
     
     font-family: 'Montserrat', sans-serif;
 }
